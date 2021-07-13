@@ -40,3 +40,29 @@ The background colors of day, vote and night section will be different. For now,
 ![Day Background](https://www.cagataykaydir.com/static/images/gameFirstDesign.png)
 ![Design basics](https://www.cagataykaydir.com/static/images/gameFirstDesignVote.png)
 ![Design basics](https://www.cagataykaydir.com/static/images/gameFirstDesignNight.png)
+
+# After a Long Time Info
+
+I felt like I have to give some information. Because it's 7pm now.
+
+First, I write down all screens that I will have to design and build. That made everything easier, because if you know what do you have to do, you can do. And here is the screen list:
+
+- [x]  Welcome Screen
+- [x]  Login Screen
+- [x]  Register Screen
+- [ ]  Avatar Choice Screen
+- [ ]  Main Menu
+- [ ]  Role Choice Screen
+- [x]  Game Screen
+
+Oh, I didn't know that I can show tasklist, that's much better than showing a list. Good, so as you can see, I have finished the starter screens like welcome, login and register. And now I'll create the main menu. But before, I can show you what I have done:
+
+First, added some details to game screen:
+
+![More Detailed Game Screen](https://www.cagataykaydir.com/static/images/gameMoreDetailedGameScreen.png)
+
+And created these screens:
+
+![Welcome Screen](https://www.cagataykaydir.com/static/images/gameWelcomeScreenFirst.png)
+![Login Screen](https://www.cagataykaydir.com/static/images/gameLoginScreenFirst.png)
+![Register Screen](https://www.cagataykaydir.com/static/images/gameRegisterScreenFirst.png)
