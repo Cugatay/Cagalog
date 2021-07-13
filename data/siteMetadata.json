@@ -1,0 +1,19 @@
+{
+  "title": "Cagalog",
+  "author": "Çağatay Kaydır",
+  "headerTitle": "Cagalog",
+  "description": "My Logstation that I'm using to write down the construction process of my projects",
+  "language": "en-us",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "siteLogo": "/static/images/logo.png",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "cagataykaydir@gmail.com",
+  "github": "https://github.com/Cugatay",
+  "twitter": "https://twitter.com/CagatayKayd",
+  "facebook": "https://www.facebook.com/cagatay.kaydir.9",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-kayd%C4%B1r-965a00188/",
+  "locale": "en-US"
+}
