@@ -28,7 +28,7 @@ And I already have a feature list. I wrote down some notes while thinking about 
 
 Now, I'm still working on design. Because these days everyone is just looking at the design and deciding that this app is good or bad. And if my target group is my friends, they of course don't know the details of coding or designing any code structure. So they will just be able to look at the design, and this is not their bad beacause as I told you, they can't just understand the code. And now, I have the really basics of the design. And here it is:
 
-![Design basics](http://localhost:3000/static/images/gameFirstDesign.png)
+![Design basics](https://www.cagataykaydir.com/static/images/gameFirstDesign.png)
 
 And actually, I have made a better job than I thought for first design. Yeah, especially the top side is looking pretty sick man. Love it.
 
@@ -37,6 +37,6 @@ Anyways, now I have to continue with that. The rest of the style will be about e
 ## Day, Vote and Night Screen
 The background colors of day, vote and night section will be different. For now, I have them all, but vote section's color may be changed
 
-![Day Background](http://localhost:3000/static/images/gameFirstDesign.png)
-![Design basics](http://localhost:3000/static/images/gameFirstDesignVote.png)
-![Design basics](http://localhost:3000/static/images/gameFirstDesignNight.png)
+![Day Background](https://www.cagataykaydir.com/static/images/gameFirstDesign.png)
+![Design basics](https://www.cagataykaydir.com/static/images/gameFirstDesignVote.png)
+![Design basics](https://www.cagataykaydir.com/static/images/gameFirstDesignNight.png)
