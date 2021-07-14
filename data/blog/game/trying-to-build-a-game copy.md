@@ -1,5 +1,5 @@
 ---
-title: I'm Trying to Build a Game
+title: I'm Gonna Try to Build a Game
 date: '2021-07-13'
 tags: ['react', 'code', 'game', 'typescript']
 draft: false
