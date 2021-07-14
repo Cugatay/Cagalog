@@ -83,7 +83,7 @@ Just wanted to say this.
 
 Bro, this so stupid but these days everyone is updating their codes, and they have made their codes so useless. tsconfig.json (I follow the owner btw, he is Ben Awad) and whole Apollo Graphql's playground has changed and this was so hard to use them in my project. This has a really bad feeling, because you feel like doing nothing.
 
-And good news, I finally started to write the important codes. You can see the ![Github Repository](https://github.com/Cugatay/wofgang) to follow all changes. With the written code, I have finished 3 backend function, here is the tasklist:
+And good news, I finally started to write the important codes. You can see the [Github Repository](https://github.com/Cugatay/wofgang) to follow all changes. With the written code, I have finished 3 backend function, here is the tasklist:
 
 - [x]  login
 - [x]  register
