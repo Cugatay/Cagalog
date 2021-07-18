@@ -22,3 +22,14 @@ And it really tired me, so today may be done. But it's so funny to create subscr
 - [ ]  playerVotedToKill
 
 They all will be checked, they all...
+
+# I Couldn't Stop
+
+Yeah, as you can guess I have made my first subscription baby! It's gameUpdated. I know that it's not in the checklist, because using this thing is better than using gamePlayers, gameStarted, gameFinished ... At least for now.
+
+Maybe you can tell that splitting functions is a better way than this, but don't forget that I'm developing the MVP version, so this function is more than enough for now, mean don't need to tackle with more subscriptions. And with this function, our checklist will be like this:
+
+- [X]  gameUpdated
+- [ ]  playerVotedToExecute (maybe, not sure)
+- [ ]  playerVotedToKill
+- [ ]  playerSentMessage
