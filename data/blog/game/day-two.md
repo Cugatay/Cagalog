@@ -14,7 +14,7 @@ Main Menu:
 
 Avatar Choice Screen:
 
-![Welcome Screen](https://www.cagataykaydir.com/static/images/gameAvatarSelectScreen.png)
+![Avatar Select Screen](https://www.cagataykaydir.com/static/images/gameAvatarSelectScreen.png)
 
 So that's it, now we can continue with today's tasks.
 
