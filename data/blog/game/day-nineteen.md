@@ -13,3 +13,5 @@ I also noticed that we have some bugs about the sizes of every different screen.
 But let's talk about something good stuffs that I developed. I have finished the time component. And we have a good animation in there. Let's see if I can show you:
 
 ![Time Component Animation](https://www.cagataykaydir.com/static/images/timeComponentAnimation.gif)
+
+But the thing that you saw on the bottom of the screen, this is so sh***ty. I mean, not just the design. it breaks the whole design when I open my keyboard. So, I'm gonna design it like a new screen. That makes things easier. So, let me design this stuff. Also, I'm gonna try to tackle with tablet design. Don't forget, I started this project to learn what I don't know, just like bugs :) So, I succeed.
