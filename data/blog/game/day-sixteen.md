@@ -15,3 +15,11 @@ But this is not the whole thing in game. We have more than one screens in game. 
 And it have to have an animation, because it will affect the user experiment directly. But, I'm not sure how can I make an animation on this stuff bro, it will be so hard. Maybe the hardest thing in this development adventure.
 
 So, I have to stop whining and continue to develop this stuff. And again, everyday it's getting better and it's amazing to see it. And I'm also writing my first blog, which is as exciting as building this game. Now it's developing time, I'll give you more information today, if I don't fall asleep while developing :) See ya
+
+# Didn't Forget Yo!
+
+Now, we have finished the role select screen with good animations. Yaay.
+
+And now, it's time to make the game, which is hard. So, I think the Gamelog is over, thanks for following.
+
+Nah, I have to finish this moth******** So, see ya tomorrow
