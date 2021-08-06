@@ -1,6 +1,6 @@
 ---
 title: Building a Web Game - Day Twenty
-date: '2021-07-01'
+date: '2021-08-01'
 tags: ['react', 'code', 'game', 'typescript']
 draft: false
 summary: I'm Trying to Build a Web-Based Game
