@@ -22,4 +22,4 @@ And today was meaningful for me. Because I developed my last application in 6 mo
 
 By the way, now you can install this app. But this link will be deactivated in 1 month. And also this version will be deactivated tomorrow, 'cuz I'm gonna change the backend, though here is the link:
 
-[Download This Beauty Now!](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40cagatayxx/Vamping-ac4894cdca96431490bcd283e75db8fe-signed.apk)
+[Download This Beauty Now!](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40cagatayxx/Vamping-7cc43b429b004046906025146b0c5293-signed.apk)
